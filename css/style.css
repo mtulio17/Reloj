@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+body{
+    background: #222222;
+}
+
+main{
+    min-height: 100vh;
+}
+
+.fecha{
+    font-family:'Montserrat', sans-serif;
+    color: aliceblue;
+    font-size: 2.5em;
+    letter-spacing: 0.1em;
+
+}
+.hora{
+    font-family:'Montserrat', sans-serif;
+    color: aliceblue;
+    font-size: 3em;
+
+}
+/* efectos neon */
+.green{
+    text-shadow: 
+    0 0 5px #7bffce, 
+    0 0 10px #7bffce,
+    0 0 20px #7bffce,
+    0 0 40px #7bffce,
+    0 0 50px #7bffce,
+    0 0 60px #7bffce,
+    0 0 75px #7bffce
+}
+.blue{
+    text-shadow: 
+    0 0 5px #7bacff, 
+    0 0 10px #7bacff,
+    0 0 20px #7bacff,
+    0 0 40px #7bacff,
+    0 0 50px #7bacff,
+    0 0 60px #7bacff,
+    0 0 75px #7bacff
+}
+.pink{
+    text-shadow: 
+    0 0 5px #ff7bac, 
+    0 0 10px #ff7bac,
+    0 0 20px #ff7bac,
+    0 0 40px #ff7bac,
+    0 0 50px #ff7bac,
+    0 0 60px #ff7bac,
+    0 0 75px #ff7bac
+}
+
+/* botones */
+.btn-green{
+    background:#7bffce;
+    box-shadow: 
+    0 0 5px #7bffce, 
+    0 0 10px #7bffce,
+    0 0 20px #7bffce,
+    0 0 40px #7bffce,
+    0 0 50px #7bffce,
+    0 0 60px #7bffce,
+    0 0 75px #7bffce
+}
+.btn-blue{
+    background:#7bacff;
+    box-shadow: 
+    0 0 5px #7bacff, 
+    0 0 10px #7bacff,
+    0 0 20px #7bacff,
+    0 0 40px #7bacff,
+    0 0 50px #7bacff,
+    0 0 60px #7bacff,
+    0 0 75px #7bacff
+}
+.btn-pink{
+    background:#ff7bac;
+    box-shadow: 
+    0 0 5px #ff7bac, 
+    0 0 10px #ff7bac,
+    0 0 20px #ff7bac,
+    0 0 40px #ff7bac,
+    0 0 50px #ff7bac,
+    0 0 60px #ff7bac,
+    0 0 75px #ff7bac
+}
+.boton{
+    width: 70px;
+    height: 5px;
+    border-radius: ;
+}
